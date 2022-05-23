@@ -1,4 +1,4 @@
-example.property: "I AM IN THE DEVELOPER PROFILE"
+example.property: "I AM IN THE DEVELOPER PROFILE IN LICENSESERVICE"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "true"
